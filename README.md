@@ -8,6 +8,7 @@ master|[![Build Status](https://travis-ci.org/annehinrichs22/correct_cpp_scorebo
 
 ## Goal
 
+ * Become famous!
  * Experience a light version of [how this course works](https://github.com/annehinrichs22/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
